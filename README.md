@@ -1,0 +1,2 @@
+# Designing-CNC-Control-for-3D-Spherical-Interpolation-on-Arduino-using-DDA-Algorithm
+The objective of this project is to develop a control system for the movement of 3-axis 24DC stepper motors using an Arduino microcontroller. The program will involve reading G-Code files that have been converted from STL files, as well as providing options for automatic and manual operation, along with an emergency system.
